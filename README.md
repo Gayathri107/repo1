@@ -1,2 +1,5 @@
 # repo1
-python examples
+
+300+60+5
+
+intro to python
